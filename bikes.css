@@ -1,0 +1,75 @@
+/*******************************************************************/
+/* Created:  Jun 2 2017 by Troy Center, troycenter1@gmail.com.      */
+/* Working with JQuery Hover object to make images that hover change     */
+/*******************************************************************/
+
+/***************************************************/
+/*               CSS reset settings                */
+/***************************************************/
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+/***************************************************/
+/*               Header Bar                        */
+/***************************************************/
+
+#header {
+    text-align: center;
+}
+
+#header h1 {
+    font-family: Acme;
+    color: darkred;
+    margin-top: 20px;
+    text-shadow: 2px 2px 2px darkred;
+}
+
+#header p {
+    font-family: Acme;
+    margin: 20px;
+}
+
+/***************************************************/
+/*         Articles                                */
+/***************************************************/
+
+#superbikes {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#sporttourbikes {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#names {
+    padding: 20px;
+}
+
+table {
+    margin: 0 auto;
+}
+
+td p {
+    text-align: center;
+}
+
+/***************************************************/
+/*        Images                                    */
+/***************************************************/
+
+img {
+    height: 199px;
+    width: 315px;
+}
+
+/***************************************************/
+/*       Footer                                      */
+/***************************************************/
+
+footer {
+    text-align: center;
+    margin: 20px;
+}
